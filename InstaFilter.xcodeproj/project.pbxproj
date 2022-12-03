@@ -12,6 +12,7 @@
 		56208AC12933867100DD3757 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56208AC02933867100DD3757 /* Assets.xcassets */; };
 		56208AC42933867100DD3757 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56208AC32933867100DD3757 /* Preview Assets.xcassets */; };
 		56E637932936059200F48631 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56E637922936059200F48631 /* ImagePicker.swift */; };
+		56E7F9EF293B5EA0001918FF /* ImageSaver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56E7F9EE293B5EA0001918FF /* ImageSaver.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		56208AC02933867100DD3757 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		56208AC32933867100DD3757 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		56E637922936059200F48631 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		56E7F9EE293B5EA0001918FF /* ImageSaver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSaver.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				56208ABC2933867000DD3757 /* InstaFilterApp.swift */,
+				56E7F9EE293B5EA0001918FF /* ImageSaver.swift */,
 				56208ABE2933867000DD3757 /* ContentView.swift */,
 				56E637922936059200F48631 /* ImagePicker.swift */,
 				56208AC02933867100DD3757 /* Assets.xcassets */,
@@ -143,6 +146,7 @@
 				56E637932936059200F48631 /* ImagePicker.swift in Sources */,
 				56208ABF2933867000DD3757 /* ContentView.swift in Sources */,
 				56208ABD2933867000DD3757 /* InstaFilterApp.swift in Sources */,
+				56E7F9EF293B5EA0001918FF /* ImageSaver.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
